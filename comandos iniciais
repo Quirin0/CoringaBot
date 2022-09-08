@@ -1,0 +1,5 @@
+comandos para ligar o bot:
+
+$ termux-setup-storage
+$ cd /sdcard/coringabot
+$ npm start
