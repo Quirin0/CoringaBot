@@ -4,5 +4,10 @@
  "owner": ["5512997923621@s.whatsapp.net"],
  "owner2":["5512997923621@s.whatsapp.net"],
  "owner3":["5512997923621@s.whatsapp.net"],
- "botNumber": ["559291677761@s.whatsapp.net"]
+ "botNumber": ["559291677761@s.whatsapp.net"],
+ "marcaDAgua": "midia/marcaDAgua.png",
+ "fotoMenu": "midia/fotoMenu.jpeg",
+ "botVersion": "1.0",
+ "nomeBot": "BotQuirino",
+ "apiKey": "9e1e17bfffmshbbae78b4aeb33b8p1ac431jsn5e3e3aa080b4"
 }

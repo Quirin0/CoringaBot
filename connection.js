@@ -5,7 +5,7 @@ const {
   useSingleFileAuthState,
   MessageType,
   MessageOptions,
-  Mimetype
+  Mimetype,
  } = require('@adiwajshing/baileys');
 
  require("qrcode-terminal");
